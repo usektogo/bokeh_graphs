@@ -1,1 +1,0 @@
-Simple graph made in Bokeh with Jupyter Notebook.
